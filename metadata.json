@@ -1,0 +1,5 @@
+{
+  "name": "Thukha GP Virtual Assistant",
+  "description": "A virtual assistant for Thukha Medical Center in Myanmar to help patients with preliminary health consultations, provide safe advice, and coordinate teleconsultations.",
+  "requestFramePermissions": []
+}
